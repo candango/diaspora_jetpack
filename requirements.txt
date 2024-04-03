@@ -1,4 +1,4 @@
-Pillow == 10.2.0
+Pillow == 10.3.0
 pyyaml==5.4
 tornado==6.3.3
 sleekxmpp==1.3.2
